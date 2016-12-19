@@ -1,4 +1,4 @@
-# Hellow-Buddy
+# Hello-Buddy
 
 # Test 
 
