@@ -20,4 +20,4 @@ def main:
 
 [I khow everything](https://www.google.co.th)
 
-![image show](http://www.istockphoto.com/th/photo/traditional-holiday-stuffed-turkey-dinner-gm596802262-102296665?st=_p_food)
+![image show](http://cdn.gotoknow.org/assets/media/files/001/055/896/original_fbdmgbf.jpg?1414392223)
